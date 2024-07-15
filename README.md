@@ -5,13 +5,29 @@ I have long been fascinated by various aspects of IT, and in my free time, I enj
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **Languages**:  
+  ![C language](https://github.com/kumacx/kumacx/blob/main/icons/c.png?raw=true) ![Java language](https://github.com/kumacx/kumacx/blob/main/icons/java.png?raw=true) ![SQL language](https://github.com/kumacx/kumacx/blob/main/icons/sql.png?raw=true)
+    
+- **Tools**:   
+  ![Git](https://github.com/kumacx/kumacx/blob/main/icons/Git.png?raw=true)![Github](https://github.com/kumacx/kumacx/blob/main/icons/github.png?raw=true)![Azure Devops](https://github.com/kumacx/kumacx/blob/main/icons/Azure.png?raw=true)![Copilot](https://github.com/kumacx/kumacx/blob/main/icons/copilot.png?raw=true)
+
+## 📂 Projects & Portfolio
+
+### [MS SQL Car Rent App](link)
+An SQL Application using triggers for car renting.
+
+### [Langton's Ant simulator in C](https://github.com/MrMozart3/mrowka-langtona)
+A simulator showing how a Langton's ant moves. 
+
+### [Maze generator in C](link)
+An application written in C that generates a random maze.  
+
+### [Maze solver in Java](link)
+An application for solving mazes written in Java.
 
 ## 📊 Statistics
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumacx&show_icons=true&theme=radical)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kumacx&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumacx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact
