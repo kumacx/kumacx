@@ -13,7 +13,7 @@ I have long been fascinated by various aspects of IT, and in my free time, I enj
 
 ## 📂 Projects & Portfolio
 
-### [MS SQL Car Rent App](link)
+### [MS SQL Car Rental App](https://github.com/kumacx/SQL-Car-Rental)
 An SQL Application using triggers for car renting.
 
 ### [Langton's Ant simulator in C](https://github.com/MrMozart3/mrowka-langtona)
