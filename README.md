@@ -19,7 +19,7 @@ An SQL Application using triggers for car renting.
 ### [Langton's Ant simulator in C](https://github.com/MrMozart3/mrowka-langtona)
 A simulator showing how a Langton's ant moves. 
 
-### [Maze generator in C]([link](https://github.com/kumacx/MazeGenerator))
+### [Maze generator in C](https://github.com/kumacx/MazeGenerator)
 An application written in C that generates a random maze.  
 
 ### [Maze solver in Java](link)
