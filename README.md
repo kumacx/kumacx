@@ -19,10 +19,16 @@ An SQL Application using triggers for car renting.
 ### [Langton's Ant simulator in C](https://github.com/MrMozart3/mrowka-langtona)
 A simulator showing how a Langton's ant moves. 
 
-### [Maze generator in C](https://github.com/kumacx/MazeGenerator)
+### Rental Web Application (In progress...)
+Camper rental web app. Tech: Java, Spring Boot, Hibernate, SQL.
+
+### SSH Honeypot
+App listening on a fake-open SSH port to log and analyze attacks.
+
+### Maze generator in C
 An application written in C that generates a random maze.  
 
-### [Maze solver in Java](link)
+### Maze solver in Java
 An application for solving mazes written in Java.
 
 ## 📊 Statistics
